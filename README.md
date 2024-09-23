@@ -1,8 +1,10 @@
 # SDC_Website
  A website for the Software Development Club for Tennessee Technological University
-The following document will outline the features of each page and include general ideas about the website
+ The following document will outline the features of each page and include general ideas about the website
+
 Homepage 
  - Conditionals based on if logged in or not (ex. can only see the projects part of the navbar if you're logged in)
+ - About Us section giving a brief description of who we are
  - Top exciting projects : title, description, lead developers
  - Display announcements
  - Contact Us at the bottom
