@@ -31,3 +31,4 @@ SMS Messages
 
 General Information:
  - Users can only log in with their Tennessee Tech emails, to collect user data for personalization and disallow potential bad actors from signing up
+ - Will Implement a dark mode
